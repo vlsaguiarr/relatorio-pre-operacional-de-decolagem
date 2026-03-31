@@ -6,6 +6,11 @@ Gerando um dataset com números ficticios, o projeto irá extrair informações 
 
 Este projeto conta com uma análise realizada pela IA Gemini informando sobre possíveis Riscos e Anomalias que possam ser corrigidos, além de uma análise bruta dos dados.
 
+Este projeto usa Python, Pandas e Jinja2 para seu funcionamento.
+instale python pelo navegador
+pip install Jinja2 no cmd
+pip install Pandas no cmd
+
 EXEMPLOS:
 
         Criação da base de dados:
